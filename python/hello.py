@@ -1,0 +1,2 @@
+import cgi
+print("Hello...")
